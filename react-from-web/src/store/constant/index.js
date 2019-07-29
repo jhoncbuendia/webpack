@@ -1,0 +1,1 @@
+export const GET_VERSION = 'GET_VERSION'

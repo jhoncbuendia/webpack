@@ -1,0 +1,3 @@
+- Add webpack hot reloader
+- Check and add exceptions middleware
+- Add Linters
